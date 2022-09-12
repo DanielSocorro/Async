@@ -1,0 +1,22 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSocorro/Async.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Daniel Socorro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSocorro/Async/issues"
+  },
+  "homepage": "https://github.com/DanielSocorro/Async#readme"
+}

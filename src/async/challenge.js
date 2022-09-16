@@ -18,7 +18,7 @@ const anotherFn = async(urlApi) => {
         console.log(product.title);
         console.log(category.name);
 
-    } catch (error ){
+    } catch (error){
         console.error(error);
     }
 }
